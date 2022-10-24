@@ -1,1 +1,5 @@
 MODYFIKACJA po rozwiązaniu konfliktu 
+
+
+
+ modyfikacja w branchu release 
